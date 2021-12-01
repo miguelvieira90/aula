@@ -3,3 +3,6 @@
 library(ggplot)
 mutate()
 rename()
+filter()
+group_by()
+select()
